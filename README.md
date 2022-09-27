@@ -12,3 +12,6 @@ This repository aims at providing the best resources for computer science studen
 
 
 **NOTE :** We are accepting pull requests related to hacktoberfest 2022, however spammy Pull Requests will not be entertained. Therefore Kindly Examine your PR once, before creating it.
+
+
+*Remeber : "Quantity is Fun, Quality is Key"*
