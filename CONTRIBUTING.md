@@ -23,6 +23,7 @@
 ### What you can contribute in this repo? :punch:
 
 - You can add your own programming notes
+- You can also add cool and useful code snippets
 - There are various topics like DSA , Web-development, android-development etc. **_You can contribute in them_**
 - You can contribute your **Learning Resources** in the **Respective Folders**
 - You can also contribute freely available resource links, or practice sheets
