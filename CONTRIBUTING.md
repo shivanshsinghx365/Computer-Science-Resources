@@ -18,7 +18,9 @@
 - **Step 5** - Create a PULL Request.
 - **Step 6** - Wait for your PR to be merged
 
-- **NOTE** - PRs that are spammy will not be accepted, only useful PRs will be accepted by the maintainers
+- **NOTE** - 
+1. PRs that are spammy will not be accepted, only useful PRs will be accepted by the maintainers
+2. Kindly respect the directories, and place your contributions in separate files/folders
 
 ### What you can contribute in this repo? :punch:
 
@@ -29,4 +31,4 @@
 - You can also contribute freely available resource links, or practice sheets
 
 ---
-##                                                          So, Let's Contribute :smiley:
+## So, Let's Contribute :smiley:
