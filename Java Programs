@@ -1,0 +1,28 @@
+import java.util.*;
+public class PrimeRange {
+
+	public static void main(String args[]) {
+	    Scanner sc=new Scanner(System.in);
+	    System.out.println("Enter the Starting Range:");
+		int a=sc.nextInt();
+	    System.out.println("Enter the Ending Range");
+		int b=sc.nextInt();
+		int c;
+		for(int i=a;i<=b;i++)
+		{
+			c=0;
+			for(int j=1;j<=i;j++)
+			{
+				if(i%j==0)
+				{
+					c++;
+				}
+			}
+			if(c==2)
+			{
+				System.out.println(i);
+			}
+		}
+	}
+
+}
