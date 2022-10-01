@@ -12,7 +12,7 @@
 ### Let's Contribute :+1:
 
 - **Step 1** - Fork this repository.
-- **Step 2** - Clone the repository to your local machine/codespace
+- **Step 2** - Clone the repository to your local machine/codespace by running `git clone https://github.com/<your-username>/Computer-Science-Resources.git`
 - **Step 3** - Add useful resources and notes. _(Also add a description of what changes you have done)_.
 - **Step 4** - Add the changes to your repository.
 - **Step 5** - Create a PULL Request.
