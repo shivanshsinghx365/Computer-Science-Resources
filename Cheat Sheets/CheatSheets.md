@@ -8,3 +8,4 @@
 - [Collecting all the cheat sheets](http://overapi.com)
 - [SQL (Structured Query Language) in one page : SQL.SU](http://www.cheat-sheets.org/sites/sql.su/)
 - [vim.rtorr](https://vim.rtorr.com)
+- [HTML cheatsheet](https://www.codewithharry.com/blogpost/html-cheatsheet/)
