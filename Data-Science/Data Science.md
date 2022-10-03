@@ -17,3 +17,13 @@
 *https://www.udemy.com/course/the-data-science-course-complete-data-science-bootcamp/*
 
 *https://www.coursera.org/learn/foundations-data*
+
+*https://course.fast.ai/*
+
+*https://www.coursera.org/learn/machine-learning*
+
+*https://www.udacity.com/course/intro-to-data-science--ud359*
+
+**Books and Other Tutorials:**
+
+*https://www.learndatasci.com/free-data-science-books/*
