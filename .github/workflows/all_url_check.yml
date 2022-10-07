@@ -23,5 +23,5 @@ jobs:
            --verbose
            --no-progress
            '**/*.md'
-           fail: true
+          fail: true
 ...
