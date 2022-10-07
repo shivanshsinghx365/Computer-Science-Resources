@@ -22,6 +22,6 @@ jobs:
           args: >
            --verbose
            --no-progress
-           **/*.md
+           '**/*.md'
            fail: true
 ...
