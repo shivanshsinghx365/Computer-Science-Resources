@@ -22,4 +22,10 @@
 
 *https://www.geeksforgeeks.org/operating-systems/*
 
-https://drive.google.com/file/d/1FAxjhyIlsGGouIyCPyR3xqKVgU7mhEmQ/view
+*https://drive.google.com/file/d/1FAxjhyIlsGGouIyCPyR3xqKVgU7mhEmQ/view*
+
+*http://wiki.osdev.org/*
+
+*http://www.cs.bham.ac.uk/~exr/lectures/opsys/10_11/lectures/os-dev.pdf*
+
+*https://github.com/cfenollosa/os-tutorial*

@@ -11,3 +11,9 @@
 *https://www.learncpp.com/*
 
 *https://practice.geeksforgeeks.org/courses/fork-cpp*
+
+*https://github.com/cpp-best-practices/cppbestpractices*
+
+*https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines*
+
+*https://isocpp.org/wiki/faq/*
