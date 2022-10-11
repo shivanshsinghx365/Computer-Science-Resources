@@ -10,6 +10,8 @@
 
 *https://www.tutorialspoint.com/python_data_science/index.htm*
 
+*https://www.youtube.com/watch?v=ua-CiDNNj30*
+
 **Courses :**
 
 *https://www.udacity.com/school-of-data-science*
@@ -27,3 +29,5 @@
 **Books and Other Tutorials:**
 
 *https://www.learndatasci.com/free-data-science-books/*
+
+*https://www.datasciencecentral.com/*

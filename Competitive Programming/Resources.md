@@ -20,6 +20,8 @@ Here I provide some of the most popular websites and learning resources that I h
 
 *https://www.youtube.com/c/Errichto*
 
+*https://www.topcoder.com/community/competitive-programming/tutorials/*
+
 **Competitive Programming Websites:**
 
 *https://codeforces.com/*
@@ -31,3 +33,6 @@ Here I provide some of the most popular websites and learning resources that I h
 *https://www.hackerearth.com/challenges/*
 
 *https://www.hackerrank.com/*
+
+*https://clist.by/*
+
