@@ -14,3 +14,5 @@ Name | Resource Link | Information
 🧑‍💻 Github Repos - 2 | https://bit.ly/3dGLCfw | Kubetools - A Curated List of Kubernetes Tools
 🧑‍💻 Github Repos - 3 | https://bit.ly/3Kejxa5 | System Design Primer
 ☸️ Kubernetes course by CIVO | https://www.civo.com/academy | Kubernetes - An orchestration tool used to manage your containers and application
+DevOps Tools | https://github.com/collections/devops-tools | These tools help you manage servers and deploy happier and more often with more confidence.
+Atlassian Guide | https://www.atlassian.com/devops | DevOps aligns development and operations to optimize quality and delivery.

@@ -20,3 +20,6 @@ Learning AI can seem quite intimidating at first, primarily due to how vast the 
 
 *https://pytorch.org/* (tensorflow documentation)
 
+*http://cs229.stanford.edu/*  Stanford Machine Learning Course
+
+*https://mlcourse.ai/*  Open Machine Learning Course
