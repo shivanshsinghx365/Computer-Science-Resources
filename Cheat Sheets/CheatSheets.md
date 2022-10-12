@@ -10,3 +10,5 @@
 - [vim.rtorr](https://vim.rtorr.com)
 - [HTML cheatsheet](https://www.codewithharry.com/blogpost/html-cheatsheet/)
 - [Cheatography](https://cheatography.com/)
+- [Design Patterns](https://blog.bytebytego.com/p/ep17-design-patterns-cheat-sheet)
+- [System Design Primer](https://github.com/donnemartin/system-design-primer)
