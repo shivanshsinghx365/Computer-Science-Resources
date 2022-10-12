@@ -1,8 +1,8 @@
-- Take u forward
-- Clever Programmer
-- thenewboston
-- Derek Banas
-- Gate Smashers
-- Traversy Media
-- freecodecamp
-- Abdul Bari
+- [Take u forward](https://www.youtube.com/c/takeUforward)
+- [Clever Programmer](https://www.youtube.com/c/CleverProgrammer)
+- [thenewboston](https://www.youtube.com/user/thenewboston)
+- [Derek Banas](https://www.youtube.com/c/derekbanas)
+- [Gate Smashers](https://www.youtube.com/c/GateSmashers)
+- [Traversy Media](https://www.youtube.com/c/TraversyMedia)
+- [freecodecamp](https://www.youtube.com/c/Freecodecamp)
+- [Abdul Bari](https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw/featured)
