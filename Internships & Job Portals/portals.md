@@ -2,8 +2,6 @@
 
 *https://internshala.com/*
 
-*https://in.linkedin.com/jobs*
-
 *https://www.glassdoor.co.in/index.htm*
 
 *https://www.naukri.com/*
