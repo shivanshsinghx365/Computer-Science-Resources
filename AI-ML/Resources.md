@@ -23,3 +23,5 @@ Learning AI can seem quite intimidating at first, primarily due to how vast the 
 *http://cs229.stanford.edu/*  Stanford Machine Learning Course
 
 *https://mlcourse.ai/*  Open Machine Learning Course
+
+*https://www.showwcase.com/show/17667/the-machine-learning-techniques (Understand the The Machine Learning Techniques in simple words)
