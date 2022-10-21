@@ -21,3 +21,5 @@
 *https://www.geeksforgeeks.org/cpp-polymorphism/*
 
 *https://www.scaler.com/topics/cpp/abstraction-in-cpp/*
+
+*https://www.geeksforgeeks.org/encapsulation-in-c/*
