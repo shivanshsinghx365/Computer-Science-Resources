@@ -19,3 +19,5 @@
 *https://isocpp.org/wiki/faq/*
 
 *https://www.geeksforgeeks.org/cpp-polymorphism/*
+
+*https://www.scaler.com/topics/cpp/abstraction-in-cpp/*
