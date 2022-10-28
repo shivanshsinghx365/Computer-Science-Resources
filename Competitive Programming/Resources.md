@@ -5,34 +5,38 @@ Competitive Programming or CP refers to the solving of complex algorithmic probl
 Here I provide some of the most popular websites and learning resources that I have found the most useful in my CP journey, using which you can enhance you CP skills (Remember - consistency is the key)
 
 **Learning Resources :**
+- [gfg](https://www.geeksforgeeks.org/)
+- [cp-algorithms](https://cp-algorithms.com/) 
+- [Utkarsh Gupta](https://www.youtube.com/channel/UCGS5ZzcSAymQbWZvNoKOFhQ)
+- [CodeNCode](https://www.youtube.com/channel/UCrR5BJxc1vZ0fmn0MOpuXQQ)
+- [Harisam Sharma](https://www.youtube.com/c/Harisamsharma) 
+- [Priyansh Agarwal](https://www.youtube.com/c/PriyanshAgarwal)
+- [Errichto](https://www.youtube.com/c/Errichto)
+- [topcoder tutorials](https://www.topcoder.com/community/competitive-programming/tutorials)
 
-*https://www.geeksforgeeks.org/*
-
-*https://cp-algorithms.com/*
-
-*https://www.youtube.com/channel/UCGS5ZzcSAymQbWZvNoKOFhQ*
-
-*https://www.youtube.com/channel/UCrR5BJxc1vZ0fmn0MOpuXQQ*
-
-*https://www.youtube.com/c/Harisamsharma*
-
-*https://www.youtube.com/c/PriyanshAgarwal*
-
-*https://www.youtube.com/c/Errichto*
-
-*https://www.topcoder.com/community/competitive-programming/tutorials/*
 
 **Competitive Programming Websites:**
 
-*https://codeforces.com/*
-
-*https://www.codechef.com/*
-
-*https://atcoder.jp/*
-
-*https://www.hackerearth.com/challenges/*
-
-*https://www.hackerrank.com/*
-
-*https://clist.by/*
+  - [CList](https://clist.by)
+  - [CodeForces](https://codeforces.com)
+  - [CodeChef](https://www.codechef.com)
+  - [TopCoder](https://www.topcoder.com)
+  - [AtCoder](https://atcoder.jp)
+  - [Hackerrank](https://www.hackerrank.com)
+  - [HackerEarth](https://www.hackerearth.com)
+  - [Google Kickstart](https://codingcompetitions.withgoogle.com/kickstart)
+  - [Google Code Jam](https://codingcompetitions.withgoogle.com/codejam)
+  - [ICPC Global](https://icpc.global)
+  - [LeetCode](https://leetcode.com)
+  - [GeeksForGeeks](https://www.geeksforgeeks.org)
+  - [A2OJ ladder (Practice)](https://earthshakira.github.io/a2oj-clientside/server/Ladders.html)
+  - [Work@Tech](https://workat.tech/problem-solving/practice)
+  - [Tech Interview Handbook](https://www.techinterviewhandbook.org/grind75)
+  - [LintCode](https://www.lintcode.com/problem/?typeId=4)
+  - [Meta Hackercup](https://www.facebook.com/codingcompetitions/hacker-cup)
+  - [CSES ProblemSet](https://cses.fi/)
+  - [Timus Online Judge](https://acm.timus.ru/)
+  - [Project Euler](https://projecteuler.net/archives)
+  - [SPOJ](https://www.spoj.com/)
+  - [Uva Online Judge](https://onlinejudge.org/)
 
