@@ -1,15 +1,16 @@
-# The Pragmatic Programmer - D. Thomas and A. Hunt
-# Clean Code - Robert C. Martin
-# The Art of Computer Programming - D. Knut
-# Refactoring - M. Fowler
-# Working Effectively With Legacy Code - M. Feathers
-# Introduction to Algorithms -  Cormen Leiserson
-# Fabricio Damazio
-# Grokking Simplicity - Eric Normand
-# Extreme Programming Explained - K. Beck
-# Compilers - Aho and Lam
-# Seven Languages in Seven Weeks - Bruce Tate
-# Refactoring to Patterns -  Kerievsky
-# The Object-Oriented Thought Process - Weisfeld
-# Design Patterns - Gamma, Helm
-# Grokking Algorithms - Aditya Bhargava
+
+- [The Pragmatic Programmer - D. Thomas and A. Hunt](https://www.cin.ufpe.br/~cavmj/104The%20Pragmatic%20Programmer,%20From%20Journeyman%20To%20Master%20-%20Andrew%20Hunt,%20David%20Thomas%20-%20Addison%20Wesley%20-%201999.pdf)
+- [Clean Code - Robert C. Martin](https://thixalongmy.haugiang.gov.vn/media/1175/clean_code.pdf)
+- [The Art of Computer Programming - D. Knut](http://broiler.astrometry.net/~kilian/The_Art_of_Computer_Programming%20-%20Vol%201.pdf)
+- [Refactoring - M. Fowler](http://silab.fon.bg.ac.rs/wp-content/uploads/2016/10/Refactoring-Improving-the-Design-of-Existing-Code-Addison-Wesley-Professional-1999.pdf)
+- [Working Effectively With Legacy Code - M. Feathers](https://ptgmedia.pearsoncmg.com/images/9780131177055/samplepages/0131177052.pdf)
+- [Introduction to Algorithms -  Cormen Leiserson](https://sd.blackball.lv/library/Introduction_to_Algorithms_Third_Edition_(2009).pdf)
+- Fabricio Damazio
+- [Grokking Simplicity - Eric Normand](https://www.manning.com/books/grokking-simplicity)
+- [Extreme Programming Explained - K. Beck](https://ptgmedia.pearsoncmg.com/images/9780321278654/samplepages/9780321278654.pdf)
+- [Compilers - Aho and Lam](https://www-2.dc.uba.ar/staff/becher/dragon.pdf)
+- [Seven Languages in Seven Weeks - Bruce Tate](https://www.amazon.in/Seven-Languages-Weeks-Pragmatic-Programmers/dp/193435659X)
+- [Refactoring to Patterns -  Kerievsky](https://www.amazon.in/Refactoring-Patterns-Addison-Wesley-Signature/dp/0321213351)
+- [The Object-Oriented Thought Process - Weisfeld](https://coddyschool.com/upload/Addison_Wesley_The_Object_Orient.pdf)
+- [Design Patterns - Gamma, Helm](https://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
+- [Grokking Algorithms - Aditya Bhargava](https://www.amazon.in/Grokking-Algorithms-illustrated-programmers-curious/dp/1617292230)
